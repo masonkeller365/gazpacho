@@ -6,3 +6,6 @@ recipe for a cold soup
 * Peppers
 * Cucumber
 * Onions
+
+##direction 
+1- chop all ingredients
