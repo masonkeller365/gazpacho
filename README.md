@@ -1,11 +1,12 @@
 # gazpacho
 recipe for a cold soup
 
-##ingredients list
+## ingredients list
 * Tomatoes
 * Peppers
 * Cucumber
 * Onions
 
-##direction 
+## direction 
 1- chop all ingredients
+2- brown veggies and add other stuff
