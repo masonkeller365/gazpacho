@@ -10,3 +10,4 @@ recipe for a cold soup
 ## direction 
 1- chop all ingredients
 2- brown veggies and add other stuff
+3- why do i need to save why ain't vsCode doing it
